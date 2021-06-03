@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![alt text](https://octodex.github.com/images/red-polo.png)
+
 I am extremely passionate about: 
 
 - Open Source Technology
