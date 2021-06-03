@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am extremely passionate about: 
+
+- Open Source Technology
+- Container Security
+- Enabling Developers
+
+How to reach me: dhselman@github.com
