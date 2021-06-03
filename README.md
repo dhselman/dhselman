@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt text](https://octodex.github.com/images/red-polo.png)
+<img src="https://octodex.github.com/images/red-polo.png" width="500">
 
 I am extremely passionate about: 
 
